@@ -128,7 +128,7 @@ const sudeep = {
   <a href="mailto:sudeep6342@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
-  <a href="[https://sudeep-ps.github.io/](https://sudeep-ps.vercel.app/)">
+  <a href="https://sudeep-ps.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=github&logoColor=white"/>
   </a>
   <br/><br/>
