@@ -12,6 +12,7 @@
 </div>
 
 <br/>
+
 <div align="center">
 
 | 👤 Name | Sudeep P S |
@@ -23,8 +24,6 @@
 | 📧 Contact | sudeep6342@gmail.com |
 
 </div>
-
-```
 
 ---
 
