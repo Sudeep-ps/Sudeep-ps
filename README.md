@@ -12,15 +12,18 @@
 </div>
 
 <br/>
-```ts
-const sudeep = {
-  name     : "Sudeep P S",
-  role     : "Software Developer @ Datcarts",
-  location : "Palakkad, Kerala 🌿",
-  stack    : ["Flutter", "NestJS", "React", "Node.js"],
-  passion  : "Turning ideas into impactful products",
-  contact  : "sudeep6342@gmail.com"
-};
+<div align="center">
+
+| 👤 Name | Sudeep P S |
+|---|---|
+| 💼 Role | Software Developer |
+| 📍 Location | Palakkad, Kerala 🌿 |
+| 🛠 Stack | Flutter · NestJS · React · Node.js |
+| 💡 Passion | Turning ideas into impactful products |
+| 📧 Contact | sudeep6342@gmail.com |
+
+</div>
+
 ```
 
 ---
